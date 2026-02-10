@@ -1,4 +1,4 @@
-torch==2.0.1+cpu
+torch==2.8.0
 torchaudio==2.0.2+cpu
 speechbrain==0.5.14
 SpeechRecognition==3.10.1
